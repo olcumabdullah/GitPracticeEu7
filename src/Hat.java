@@ -8,7 +8,8 @@ public class Hat {
         //second commit at this branch
         System.out.println("Second Line of Code");
 
-
+        //third commit at this branch
+        System.out.println("Third Line of Code");
 
     }
 

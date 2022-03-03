@@ -5,6 +5,10 @@ public class Hat {
         //first commit at this branch
         System.out.println("First Line of Code");
 
+        //second commit at this branch
+        System.out.println("Second Line of Code");
+
+
 
     }
 

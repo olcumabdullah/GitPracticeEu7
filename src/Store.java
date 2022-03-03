@@ -5,7 +5,8 @@ public class Store {
         //first
         System.out.println("First line of Code");
 
-
+        //second
+        System.out.println("Second line of Code");
 
     }
 
